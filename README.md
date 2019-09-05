@@ -2,4 +2,5 @@
 
 Hello!
 
-I'm Grigory and I'm trying tro figure github out!
+I'm Grigory and I'm trying to figure github out!
+I have a Corgi
