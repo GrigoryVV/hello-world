@@ -1,2 +1,5 @@
 # hello-world
-get started implementation
+
+Hello!
+
+I'm Grigory and I'm trying tro figure github out!
